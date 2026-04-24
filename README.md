@@ -1,6 +1,8 @@
 > This was a hackpad built for Hackclub's YSWS. Check them out [here](https://hackclub.com/)!
 > The smaller sibling of the [clicky-slab](https://github.com/sysangl/clicky-slab/)
 
+The first device in the Brick series, a set of custom devices.
+
 ## Overview
 I'm lazy, so what better thing to do than spend hours learning how to and trying to design a PCB and case for a macro pad, just so I can save milliseconds pressing one key instead of two.s
 
